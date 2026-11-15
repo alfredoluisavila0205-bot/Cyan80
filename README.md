@@ -1,4 +1,5 @@
 # Cyan80
-Plain text editor for Windows. 80s style
-Editor de texto plano para Windows con un margen de 80 columnas. 
-16 colores de la paleta Commodore 64 Saturated para el fondo y el texto.
+Editor de texto plano estilo 80s.
+80 columnas. 
+16 colores como el Commodore 64 para cambiar color de fondo y texto.
+Para Windows
